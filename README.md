@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages 
 
-https://qa-nildip.github.io/MyProfile/
+https://patelnildip.github.io/MyProfile/
 
 You can use the [editor on GitHub](https://github.com/QA-Nildip/MyProfile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
